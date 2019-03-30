@@ -6,15 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="ssm-demo-backend" />
         <module name="ssm-demo-fronted" />
-        <module name="ssmdemobackend" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ssm-demo" target="1.8" />
+      <module name="ssm-demo-backend" target="1.8" />
       <module name="ssm-demo-fronted" target="1.8" />
-      <module name="ssmdemobackend" target="1.8" />
-      <module name="ssmdemofronted" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
