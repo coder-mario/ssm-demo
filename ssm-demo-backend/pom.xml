@@ -8,6 +8,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
+    <packaging>jar</packaging>
 
     <properties>
         <spring.version>5.1.5.RELEASE</spring.version>
@@ -17,6 +18,7 @@
     </properties>
 
     <artifactId>ssm-demo-backend</artifactId>
+    <version>1.0-SNAPSHOT</version>
     <dependencies>
         <!-- spring mvc包 -->
         <dependency>

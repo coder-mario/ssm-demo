@@ -2,5 +2,7 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ssm-demo-backend" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ssm-demo-fronted" charset="UTF-8" />
   </component>
 </project>

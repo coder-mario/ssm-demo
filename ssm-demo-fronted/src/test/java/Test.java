@@ -1,5 +1,3 @@
-package cc.blueday.test;
-
 import cc.blueday.login.dao.GCloudUsersMapper;
 import org.apache.ibatis.io.Resources;
 import org.apache.ibatis.session.SqlSession;
