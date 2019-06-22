@@ -15,5 +15,7 @@ public class GCloudUserServiceImpl implements GCloudUserService {
     public GCloudUsers getUserById(String id){
         return gCloudUsersMapper.getUserById(id);
     }
-
+    public GCloudUsers login(String id,String password){
+        return gCloudUsersMapper.login(id,password);
+    }
 }
